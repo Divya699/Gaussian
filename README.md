@@ -52,7 +52,7 @@ for i in range(n):
 ```
 
 ## Output:
-![gaussian elimination]()
+
 <img width="1507" height="609" alt="Screenshot 2025-11-27 202145" src="https://github.com/user-attachments/assets/77880ac5-a647-4b26-8a77-6838171dc438" />
 <img width="1901" height="757" alt="Screenshot 2025-11-27 202314" src="https://github.com/user-attachments/assets/908b8855-b62f-4f19-a2d6-842bd21c6dda" />
 <img width="1503" height="655" alt="Screenshot 2025-11-27 202329" src="https://github.com/user-attachments/assets/a3d60f63-d38a-488e-be6d-54f13d8da9aa" />
